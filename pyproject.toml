@@ -55,5 +55,5 @@ tldw = "tldw.cli:main"
 [tool.setuptools]
 packages = ["tldw"]
 
-[tool.pytest.inioptions]
+[tool.pytest.ini_options]
 testpaths = ["tests"]
